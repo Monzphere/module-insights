@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2.0,
+    "id": "insights",
+    "type": "widget",
+    "name": "Insights Dashboard",
+    "namespace": "InsightsNamespace",
+    "version": "1.0",
+    "author": "Monzphere",
+    "description": "Módule Insights for Zabbix",
+    "widget": {
+        "js_class": "WidgetInsightsJs",
+        "view":"class.widget"
+    },
+    "assets": {
+        "js": ["class.widget.php.js"]
+    }
+}
