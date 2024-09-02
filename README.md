@@ -1,6 +1,6 @@
 ## Descrição do Módulo de Widget Integrado à IA para Acessibilidade
 
-O módulo de widget integrado à IA da OpenAI é uma solução inovadora que visa melhorar significativamente a acessibilidade digital e a experiência do usuário em diversas plataformas. Este widget utiliza tecnologia avançada de IA para analisar e interpretar imagens, facilitando a compreensão de conteúdos visuais para pessoas com deficiência visual ou outras limitações.
+O módulo de widget integrado à IA da OpenAI é uma solução inovadora que visa melhorar significativamente a acessibilidade digital e a experiência do usuário no Zabbix. Este widget utiliza tecnologia avançada de IA para analisar e interpretar imagens, facilitando a compreensão de conteúdos visuais para pessoas com deficiência visual ou outras limitações.
 
 ### Principais Funcionalidades:
 
