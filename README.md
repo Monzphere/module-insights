@@ -26,3 +26,7 @@ O módulo de widget integrado à IA da OpenAI é uma solução inovadora que vis
 - **Conformidade com Normas de Acessibilidade:** A implementação deste módulo ajuda empresas e organizações a cumprir regulamentações e normas de acessibilidade, como o WCAG (Web Content Accessibility Guidelines).
 
 Este widget não só aprimora a acessibilidade, mas também demonstra o compromisso com a inovação e a responsabilidade social ao tornar o mundo digital mais acessível e inclusivo para todos.
+
+
+### Configuração:
+- **Inclusão do token:** Para que o modulo funcione é necessario incluir o token dentro do codigo no arquivo class.widget.php.js.
